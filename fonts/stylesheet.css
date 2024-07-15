@@ -5,7 +5,9 @@
 @font-face {
     font-family: 'minion_proregular';
     src: url('minionpro-regular-webfont.woff2') format('woff2'),
-         url('minionpro-regular-webfont.woff') format('woff');
+         url('minionpro-regular-webfont.woff') format('woff'),
+         url('minionpro-regular-webfont.ttf') format('truetype'),
+         url('minionpro-regular-webfont.svg#minion_proregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -17,7 +19,9 @@
 @font-face {
     font-family: 'misoregular';
     src: url('miso-regular-webfont.woff2') format('woff2'),
-         url('miso-regular-webfont.woff') format('woff');
+         url('miso-regular-webfont.woff') format('woff'),
+         url('miso-regular-webfont.ttf') format('truetype'),
+         url('miso-regular-webfont.svg#misoregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
