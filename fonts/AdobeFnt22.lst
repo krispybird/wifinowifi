@@ -1,0 +1,53 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Tiffany\Dropbox\Everyday Design Studio\A Projects\100 Ongoing\wifi no wifi\Study Deployment\Participant Dissasembly Instructions\Disassembly guide_w_Images_MM Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1718923603
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Miso
+FamilyName:Miso
+StyleName:Regular
+FullName:Miso
+MenuName:Miso
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Tiffany\Dropbox\Everyday Design Studio\A Projects\100 Ongoing\wifi no wifi\Study Deployment\Participant Dissasembly Instructions\Disassembly guide_w_Images_MM Folder\Document fonts\miso-regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44744
+FileModTime:1719210672
+WeightClass:400
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Miso
+NameArray:0,Win,1,Miso
+NameArray:0,Win,16,Miso
+%EndFont
+
